@@ -1,0 +1,276 @@
+{
+  "images": [
+    {
+      "width": 233,
+      "height": 350,
+      "id": 0,
+      "file_name": "images\/5ea4bc84-Cats_Test0.png"
+    },
+    {
+      "width": 500,
+      "height": 500,
+      "id": 1,
+      "file_name": "images\/b5111c1f-Cats_Test1.png"
+    },
+    {
+      "width": 333,
+      "height": 500,
+      "id": 2,
+      "file_name": "images\/6afff196-Cats_Test2.png"
+    },
+    {
+      "width": 500,
+      "height": 400,
+      "id": 3,
+      "file_name": "images\/5959fb83-Cats_Test3.png"
+    },
+    {
+      "width": 222,
+      "height": 300,
+      "id": 4,
+      "file_name": "images\/f3ad13f3-Cats_Test4.png"
+    },
+    {
+      "width": 500,
+      "height": 333,
+      "id": 5,
+      "file_name": "images\/278ee39a-Cats_Test5.png"
+    },
+    {
+      "width": 500,
+      "height": 333,
+      "id": 6,
+      "file_name": "images\/c3820534-Cats_Test6.png"
+    },
+    {
+      "width": 500,
+      "height": 375,
+      "id": 7,
+      "file_name": "images\/4d072aac-Cats_Test7.png"
+    },
+    {
+      "width": 500,
+      "height": 375,
+      "id": 8,
+      "file_name": "images\/119b65f0-Cats_Test8.png"
+    },
+    {
+      "width": 500,
+      "height": 375,
+      "id": 9,
+      "file_name": "images\/9ba83d8a-Cats_Test9.png"
+    },
+    {
+      "width": 500,
+      "height": 375,
+      "id": 10,
+      "file_name": "images\/bb75d40e-Cats_Test10.png"
+    },
+    {
+      "width": 500,
+      "height": 335,
+      "id": 11,
+      "file_name": "images\/3b89c66a-Cats_Test11.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Cat"
+    },
+    {
+      "id": 1,
+      "name": "Dog"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        12.669683257918553,
+        29.034690799396675,
+        209.0497737556561,
+        279.788838612368
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 58489.79341127331
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        92.76018099547512,
+        26.395173453996982,
+        272.2473604826545,
+        463.0467571644042
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 126063.25741806174
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        7.394085344003542e-15,
+        15.082956259426846,
+        306.18401206636497,
+        484.16289592760177
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 148242.93796878302
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        23.529411764705884,
+        19.90950226244344,
+        415.08295625942685,
+        353.5444947209653
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 146750.2940380236
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        4.977375565610859,
+        23.981900452488684,
+        212.66968325791856,
+        274.2081447963801
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 58315.759300587626
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        101.93877551020408,
+        14.724489795918366,
+        297.88775510204084,
+        279.765306122449
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 83338.65899625157
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        287.1275510204082,
+        9.627551020408163,
+        212.87244897959184,
+        308.08163265306126
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 65582.09162848814
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        86.6691842900302,
+        13.028700906344412,
+        257.7416918429003,
+        343.27794561933536
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 88477.03847628263
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        214.12386706948638,
+        59.47885196374623,
+        166.54078549848938,
+        244.7129909365559
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 40754.69373225873
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        177.3036253776435,
+        61.17824773413898,
+        278.70090634441084,
+        289.46374622356495
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 80673.80842635609
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        152.3791540785496,
+        54.380664652567894,
+        184.6676737160117,
+        308.7235649546827
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 57011.262561495285
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        0.0,
+        15.748031496062984,
+        352.36220472440914,
+        319.2519685039367
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 112492.32748465477
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2024-12-05 15:20:51.447276"
+  }
+}
